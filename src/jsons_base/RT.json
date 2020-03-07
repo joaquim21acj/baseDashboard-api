@@ -1,0 +1,38 @@
+{
+    "realTime": [
+      {
+        "dtgRX": "aaaa-mm-dd-hh-mm-ss",
+        "dtg": [
+          "2019-12-18",
+          22,
+          20,
+          16
+        ],
+        "pkgCount": "xxxxxx",
+        "azElPo": [
+          -24.894729888358835,
+          -58.88120092723473,
+          3.4404761904761907
+        ],
+        "dtgTele": "aaaa-mm-dd-hh-mm-ss",
+        "base1": {
+          "posBase": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "posSat": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "dtgBase": "aaaa-mm-dd-hh-mm-ss"
+        },
+        "base2": {
+          "posBase": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "posSat": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "dtgBase": "aaaa-mm-dd-hh-mm-ss"
+        },
+        "base3": {
+          "posBase": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "posSat": "xx.xxxx,yy.yyyy,zz.zzzz",
+          "dtgBase": "aaaa-mm-dd-hh-mm-ss"
+        },
+        "posSat": "xx.xxxx,yy.yyyy,zz.zzzz",
+        "rssi": "xxx",
+        "latLongBase": "xx.xxxx,yy.yyyy,zz.zzzz"
+      }
+    ]
+  }
